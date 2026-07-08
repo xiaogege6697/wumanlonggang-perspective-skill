@@ -1,14 +1,16 @@
 # 🧠 Wumanlonggang Perspective Skill
 
-> Investment thinking distillation of **Wang Dalei (雾满龙冈)** — a Xueqiuball power user with 14K+ followers, who turned ¥36K into consistent returns with 38% annualized gains over 23 years of full-time investing.
+> Educational thinking lens distilled from public posts by **Wang Dalei (雾满龙冈)**. It studies cycle awareness, contrarian value, safety margin, and ordinary-person philosophy without impersonating him or giving personalized financial advice.
 
-Based on **1,915 posts + 476 image analyses** spanning 2021–2026, distilled using the **Nuwa framework** into an actionable AI skill.
+Based on **1,915 posts + 476 image analyses** spanning 2021–2026, distilled using the **Nuwa framework** into an AI skill for analysis and reflection.
+
+See [`docs/core-boundary.md`](docs/core-boundary.md) for the stable boundary: perspective, not impersonation; analysis, not instruction; current-data checks for live market claims.
 
 ## ✨ Highlights
 
 - 🔥 **7 Core Mental Models** — Everything is Cyclical, Contrarian Value, Safety Margin System, Demand First Principles, The Ordinary Person's Philosophy, Path of Least Resistance, Six-Gate Audit
 - 🎯 **10 Decision Heuristics** — Battle-tested rules from two decades of market cycles
-- 📊 **Complete Investment Decision Flow** — From demand signal → six-gate audit → contrarian timing → safety check → sell signals
+- 📊 **Complete Analysis Flow** — From demand signal → six-gate audit → contrarian timing → safety check → thesis-break signals
 - 💬 **Expression DNA** — Tone analysis, top keywords, signature phrases, and 30 classic quotes with dates & likes
 - 📈 **476 Images Analyzed** — K-line charts, portfolio screenshots, and research notes extracted via vision models
 - 🆚 **Differentiated Comparison** — vs metalslime (药神), Duan Yongping, Dan Bin
@@ -55,8 +57,8 @@ Then activate by saying things like:
 When activated, this skill operates in **Agentic Mode**:
 1. **Searches live data** before answering — never relies on stale knowledge
 2. **Applies Wang Dalei's framework** to the current market context
-3. **Speaks in first person** — "I think..." not "Wang Dalei would say..."
-4. **Disclaimer on first activation only** — doesn't repeat ad nauseam
+3. **Uses a Wang Dalei-style lens** without claiming to be Wang Dalei or representing his current holdings
+4. **Keeps financial boundaries** — no personalized buy/sell/position-size instructions
 
 ## Data Sources
 
@@ -68,12 +70,12 @@ When activated, this skill operates in **Agentic Mode**:
 
 ## Disclaimer
 
-This skill is based on public posts and represents an AI-distilled approximation of investment thinking patterns. **It is NOT financial advice.** Past patterns do not predict future results. Always do your own research.
+This skill is based on public posts and represents an AI-distilled approximation of thinking patterns. It is **not Wang Dalei**, does not represent his current views or holdings, and is **not financial advice**. Past patterns do not predict future results. Verify current data and always do your own research.
 
 ## Related Skills
 
-- [metalslime-perspective-skill](https://github.com/xiaogege6697/metalslime-perspective-skill) — metalslime (药神), 20,787 posts distilled
-- [web-crawler-skill](https://github.com/xiaogege6697/web-crawler-skill) — Anti-detection web crawler for data collection
+- [metalslime-perspective-skill](https://github.com/xiaogege6697/metalslime-perspective-skill) — metalslime-style investment thinking lens
+- [web-crawler-skill](https://github.com/xiaogege6697/web-crawler-skill) — responsible web collection strategy
 
 ---
 

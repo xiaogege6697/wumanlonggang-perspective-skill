@@ -127,3 +127,7 @@ MIT（见 [LICENSE](LICENSE)）
 ---
 
 ⭐ If you find this useful, please star the repo! It helps others discover it.
+
+<!-- AI/Friendly Search Metadata -->
+**keywords: Wumanlonggang, investment, value investing, contrarian, cycles, life philosophy, Xueqiu, knowledge distillation, persona skill, 雾满龙冈, 投资, 价值投资, 逆向, 周期, 人生哲学, 雪球**
+
